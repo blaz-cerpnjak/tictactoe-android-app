@@ -18,3 +18,5 @@ If you found a bug, have an idea how to improve this simple app or have a questi
 
 ## My apps
 Check out my other apps. You can find them on my profile page.
+
+### If this project has helped you in any way, you can give me a star.
