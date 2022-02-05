@@ -14,7 +14,7 @@ This application is being developed in [Android Studio](https://developer.androi
 This app is being developed by [Blaž Čerpnjak](https://github.com/blaz-cerpnjak), who is currently a student at Faculty of Electrical Engineering, Computer Science and Informatics, University of Maribor.
 
 ## Contributing 🧑‍💻
-If you found a bug, have an idea how to improve this imple app or have a question, please create new issue or comment existing one.
+If you found a bug, have an idea how to improve this simple app or have a question, please create new issue or comment existing one.
 
 ## My apps
 Check out my other apps. You can find them on my profile page.
