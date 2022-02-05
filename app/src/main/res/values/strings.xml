@@ -4,4 +4,5 @@
     <string name="tic_tac_toe">Tic Tac Toe</string>
     <string name="start_game">Start Game</string>
     <string name="made_by_blaz_cerpnjak">Made by Blaz Cerpnjak</string>
+    <string name="restart">Restart</string>
 </resources>
